@@ -1,0 +1,1 @@
+echo "Deployment the project : %date%" : %time%"
